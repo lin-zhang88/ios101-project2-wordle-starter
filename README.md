@@ -2,9 +2,8 @@
 
 Submitted by: **Lin Zhang**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app that generates a daily word puzzle and evaluates each guess, providing letter-position feedback (correct, present, or absent) to help players converge on the solution.
 
-Time spent: **3** hours spent in total
 
 ## Required Features
 
